@@ -14,8 +14,6 @@ The labs guide students through building ROS 2 workspaces, creating packages, wr
 
 ---
 
----
-
 ## Development Environment
 
 The following tools and technologies are used throughout the course:
@@ -25,8 +23,6 @@ The following tools and technologies are used throughout the course:
 * Python
 * Colcon Build System
 * Git & GitHub
-
----
 
 ---
 
