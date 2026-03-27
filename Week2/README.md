@@ -118,7 +118,7 @@ rqt
 
 ---
 
-## Screenshots (to be added)
+## Screenshots
 
 Include the following:
 
@@ -127,7 +127,6 @@ Include the following:
 * `ros2 topic list`
 * `ros2 topic echo`
 * `rqt` interface
-* Service calls (`/reset`, `/spawn`)
 * Two turtles in simulation
 
 ---
